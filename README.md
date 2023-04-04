@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Netlify Deploy Status
+[![Netlify Status](https://api.netlify.com/api/v1/badges/6e893ca8-c679-48ff-a28b-1cf8b421e029/deploy-status)](https://app.netlify.com/sites/blockchain-quiz/deploys)
+
 ## Available Scripts
 
 In the project directory, you can run:
