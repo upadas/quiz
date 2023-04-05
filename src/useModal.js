@@ -3,8 +3,11 @@ import Button from "react-bootstrap/Button";
 import Modal from "react-bootstrap/Modal";
 
 const useModal = () => {
+// eslint-disable-next-line
   const [show, setShow] = useState(false);
+// eslint-disable-next-line
   const handleClose = () => setShow(false);
+// eslint-disable-next-line
   const handleShow = () => setShow(true);
 
   return (

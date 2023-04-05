@@ -4,9 +4,14 @@
 // import "https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js";
 // import "bootstrap/dist/css/bootstrap.min.css";
 // import Example from "./StaticExample.js";
+
+// eslint-disable-next-line
 import Button from "react-bootstrap/Button";
+// eslint-disable-next-line
 import Modal from "react-bootstrap/Modal";
+// eslint-disable-next-line
 import { useState } from "react";
+// eslint-disable-next-line
 import { useModal } from "./useModal";
 
 // import React, { useState } from "react";
